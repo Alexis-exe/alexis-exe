@@ -1,4 +1,4 @@
-### Olá, eu sou a Alexis! 👻
+### Opa, eu sou a Alexis! 👻
 
 Sou uma desenvolvedora Full Stack e apaixonada por game development.
 
