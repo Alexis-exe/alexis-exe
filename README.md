@@ -29,6 +29,7 @@ Sou uma desenvolvedora Full Stack e apaixonada por game development.
 
 ### Design 🎨
 <div style="display: inline_block"><br/>
+  
 <img align="center"  alt="" src="https://aleen42.github.io/badges/src/photoshop.svg
 " />
 <img align="center"  alt="" src="https://aleen42.github.io/badges/src/after_effects.svg
