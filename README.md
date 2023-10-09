@@ -42,7 +42,7 @@ Sou uma desenvolvedora Full Stack e apaixonada por game development.
 
 ![Alexis GitHub stats](https://github-readme-stats.vercel.app/api?username=alexis-exe&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexis-exe&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexis-exe&hide_progress=false)
 
 
 </div>
