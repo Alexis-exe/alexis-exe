@@ -1,7 +1,6 @@
 ### Opa, eu sou a Alexis! 👻
 
 Sou uma desenvolvedora Full Stack e apaixonada por game development.<br>
- <a href="https://www.instagram.com/lawalexyz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/alexis-moreira-95b6b3290/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 ### Skills 👾
