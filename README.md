@@ -1,6 +1,6 @@
 ### Opa, eu sou a Alexis! 👻
 
-Sou uma desenvolvedora Full Stack e apaixonada por game development.<br>
+Full Stack Developer, Cyber Security & Game Development Enthusiastic<br>
 
 
 ### Skills 👾
